@@ -1,6 +1,6 @@
 ## Audio Amplifier
 **Introduction**
-An essential component in audio systems, the Audio Amplifier serves as an analog circuit primarily tasked with amplifying audio signals. Its primary function is to boost the power of an audio signal, typically sourced from a microphone, to a level suitable for playback through a speaker.
+An essential component in audio systems, the Audio Amplifier serves as an analog circuit primarily tasked with amplifying audio signals. Its primary function is to boost the power of an audio signal, typically sourced from a microphone, to a level suitable for playback through a speaker. Simulations were performed on LTSpice. Components used: BC547B/C transistors, LM741 opamps and diodes. 
 
 **Microphone**
 This section focuses on the microphone, which serves as the input device for the audio amplifier, capturing sound waves and converting them into electrical signals.
